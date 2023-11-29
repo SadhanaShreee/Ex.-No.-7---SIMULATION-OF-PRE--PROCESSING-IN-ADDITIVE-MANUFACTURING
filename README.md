@@ -39,8 +39,11 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
+
 ![123_1](/output1.png)
+
 ![123_2](/output2.png)
+
 ![123_3](/output3.png)
 
 ### Name: PRIYAADARSHINI.K
