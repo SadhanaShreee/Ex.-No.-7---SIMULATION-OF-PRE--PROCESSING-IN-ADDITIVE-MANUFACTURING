@@ -40,7 +40,9 @@
 
 ## OUTPUT:
 ![123_1](/output1.png)
+
 ![123_2](/output2.png)
+
 ![123_3](/output3.png)
 
 ### Name: PRIYAADARSHINI.K
