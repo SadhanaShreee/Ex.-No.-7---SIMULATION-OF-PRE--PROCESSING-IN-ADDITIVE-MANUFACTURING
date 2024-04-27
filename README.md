@@ -1,5 +1,5 @@
-# Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE:29-11-23 
+# SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -47,8 +47,8 @@
 
 
 
-### Name: PRIYAADARSHINI.K
-### Register Number:23000629
+### Name: SADHANA SHREE B
+### Register Number:212223230177
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
