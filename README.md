@@ -45,8 +45,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/SadhanaShreee/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144517664/f5f58d51-ab75-4140-a0bb-1e7b25ada2ec)
+
+![image](https://github.com/SadhanaShreee/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144517664/6a7d76a4-d305-4b13-9225-d0690d39b7d6)
+
+### Name: SADHANA SHREE B
+### Register Number: 212223230177
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
